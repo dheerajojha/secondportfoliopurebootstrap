@@ -1,0 +1,13 @@
+@media (max-width: 1200px) and (min-width: 992px) {
+  .service-item {
+    height: 100%;
+    min-height: 33rem;
+  }
+
+  .blog-wrapper .pl {
+    font-size: 1.5rem;
+  }
+}
+
+/* @media (max-width: 767px) {
+} */
